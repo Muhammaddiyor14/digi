@@ -1,0 +1,11 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.fon{
+    background-image: url('fon.png');
+    height: 76vh;
+}
+.fon2{
+    background-image: url('pastgi qism.png');
+}
