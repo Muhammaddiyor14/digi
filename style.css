@@ -4,7 +4,8 @@
 }
 .fon{
     background-image: url('fon.png');
-    height: 76vh;
+    background-repeat: repeat-x;
+    height: 430px;
 }
 .fon2{
     background-image: url('pastgi qism.png');
